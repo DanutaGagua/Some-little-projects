@@ -6,3 +6,6 @@
   
 #### Draw three squares
 [![Screenshot-from-2022-12-31-12-45-02.png](https://i.postimg.cc/X7gZzQFt/Screenshot-from-2022-12-31-12-45-02.png)](https://postimg.cc/6yy57VMh)  
+
+#### Draw eight squares  
+[![Screenshot-from-2022-12-31-12-49-46.png](https://i.postimg.cc/NMMqQGP1/Screenshot-from-2022-12-31-12-49-46.png)](https://postimg.cc/TyZH9xxw)
