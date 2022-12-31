@@ -9,3 +9,9 @@
 
 #### Draw eight squares  
 [![Screenshot-from-2022-12-31-12-49-46.png](https://i.postimg.cc/NMMqQGP1/Screenshot-from-2022-12-31-12-49-46.png)](https://postimg.cc/TyZH9xxw)
+  
+#### Draw hexagon  
+[![Screenshot-from-2022-12-31-12-54-31.png](https://i.postimg.cc/5y582Jrm/Screenshot-from-2022-12-31-12-54-31.png)](https://postimg.cc/m1DPmvBc)  
+  
+#### Draw seven hexagons  
+[![Screenshot-from-2022-12-31-12-58-21.png](https://i.postimg.cc/59FZxr2Q/Screenshot-from-2022-12-31-12-58-21.png)](https://postimg.cc/hhcCspxK)  
