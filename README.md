@@ -29,4 +29,8 @@ Work with modul turtle for learning
 #### Pied_Piper_Landing_page
 Web-page on HTML+CSS with information about a project.   
 <i>Homework from [https://stepik.org/course/38218/info](https://stepik.org/course/38218/info) </i>
+
+#### Rings
+##### 1_direction_ring  
+C-realization of one direction ring. Can add number to ring, delete i-element after head in ring, sort numbers in ring, watch ring nodes.  
   
