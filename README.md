@@ -34,4 +34,8 @@ Web-page on HTML+CSS with information about a project.
 ##### 1_direction_ring  
 C-realization of one direction ring. Can add number to ring, delete i-element after head in ring, sort numbers in ring, watch ring nodes.  
 ##### 2_direction_ring  
-C-realization of two direction ring. Can add number to ring, delete i-element after head in ring, sort and watch numbers in ring clockwise or counter clockwise.   
+C-realization of two direction ring. Can add number to ring, delete i-element after head in ring, sort and watch numbers in ring clockwise or counter clockwise.    
+   
+#### algorithms
+##### sort_by_spiral  
+Sorts elements in array by spiral.
