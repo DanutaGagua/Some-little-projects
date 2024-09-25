@@ -1,0 +1,183 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+.rest-info>.title-h6 {
+    font-size: 13px;
+    color: white;
+    border-radius: 16px;
+    background-color: black;
+}
+
+.card-body-rest {
+    text-align: center;
+}
+
+.nav-cont {
+    background-color: white;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.btn-nav {
+    border-color: lightgrey;
+    width: 80px;
+    font-size: 13px;
+    color: black;
+    height: 40px;
+}
+
+.a-rest {
+    text-decoration: none;
+}
+
+.a-rest:hover {
+    text-decoration: none;
+    background-color: antiquewhite;
+}
+
+.navbar-nav>.nav-item>.nav-link:hover {
+    color: rgba(0, 128, 0, 0.904);
+}
+
+.jumbotron {
+    background-color: white;
+    height: 20px;
+}
+
+.jump-rest {
+    background: url(rest.png) center center/cover no-repeat;
+    height: 364px;
+}
+
+.cont-rest {
+    display: flex;
+    align-items: center;
+}
+
+.form-control {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid lightgray;
+    outline: 0;
+    font-size: 18px;
+    color: lightgrey;
+}
+
+.btn-secondary {
+    background-color: #6c757da8;
+    box-shadow: none;
+    border: none;
+}
+
+.btn-secondary:focus,
+.btn-secondary:active {
+    box-shadow: none;
+}
+
+.lang,
+.dropdown-item,
+.dropdown-menu {
+    width: 227px;
+    background-color: #6c757d;
+    color: white;
+    border-radius: 0;
+}
+
+.card-title,
+.card-text {
+    color: black;
+    text-decoration-color: white;
+}
+
+.card-text-sub {
+    color: gray;
+    text-decoration-color: white;
+}
+
+.card-body-rest {
+    height: 204px;
+}
+
+.card-body-rest,
+.card-meal {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.footer-end {
+    font-size: 13px;
+}
+
+.foot-ref {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.btn-up {
+    position: fixed;
+    bottom: 24px;
+    right: 16px;
+}
+
+.title-h1 {
+    font-size: 39px;
+}
+
+hr {
+    display: none;
+}
+
+@media screen and (max-width:576px) {
+    .basket {
+        display: none;
+    }
+    .jump-rest {
+        height: 255px;
+    }
+    .card-title-rest {
+        font-size: 15px;
+        text-wrap: wrap;
+    }
+    .card-meal {
+        flex-basis: 50%;
+    }
+    .menu {
+        display: none;
+    }
+    .rest-info {
+        flex-direction: column;
+        align-items: center;
+    }
+    .title-h1 {
+        font-size: 24px;
+    }
+    .card-body-rest {
+        height: 180px;
+    }
+    .cont-rest {
+        margin-top: 30%;
+    }
+    .unit {
+        text-align: center;
+        padding-top: 25%;
+    }
+    hr {
+        width: 50px;
+        display: flex;
+        justify-content: center;
+        background: #757575;
+    }
+    .rest-info>.title-h6 {
+        width: 35%;
+    }
+}
