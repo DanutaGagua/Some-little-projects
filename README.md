@@ -46,4 +46,7 @@ C-realization of two direction ring. Can add number to ring, delete i-element af
    
 #### algorithms
 ##### sort_by_spiral  
-Sorts elements in array by spiral.
+Sorts elements in array by spiral.  
+##### RSA chat  
+Work with RSA cryptogramm algorithms. Generetes open and close keys. Encodes and decodes text with RSA algorithm.  
+
